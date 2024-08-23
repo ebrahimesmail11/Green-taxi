@@ -43,11 +43,15 @@ dependencies:
   flutter_svg: ^2.0.10+1
   google_maps_flutter: ^2.9.0
   image_picker: ^1.1.2
+  get_it: ^7.7.0
+  injector: ^4.0.0
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
   flutter_gen_runner: ^5.6.0
+  build_runner: ^2.4.12
+  injectable_generator: ^2.6.2
 
   # The "flutter_lints" package below contains a set of recommended lints to
   # encourage good coding practices. The lint set provided by the package is
